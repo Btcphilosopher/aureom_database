@@ -1,0 +1,6 @@
+{
+  "name": "Aureum DB Core",
+  "description": "An interactive full-featured playground, engine simulator, and diagnostic toolkit for Aureum DB Core—a high-performance, page-based transactional storage engine with B-Tree indexing, MVCC concurrency, crash-resilient write-ahead logging (WAL), and real-time visual query planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
